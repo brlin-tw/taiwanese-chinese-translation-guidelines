@@ -17,3 +17,10 @@ path = [
 ]
 SPDX-FileCopyrightText = '2025 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>'
 SPDX-License-Identifier = 'CC-BY-SA-4.0+'
+
+[[annotations]]
+path = [
+    "xkcd-927.jpg"
+]
+SPDX-FileCopyrightText = '2025 CQD, Randall Patrick Munroe, et. al. <https://xkcd.tw/927>'
+SPDX-License-Identifier = 'CC-BY-NC-2.5'
