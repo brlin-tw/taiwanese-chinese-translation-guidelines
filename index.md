@@ -22,6 +22,16 @@ style: |
 
 ---
 
+## 我是誰？
+
+- 臺灣自由暨開源軟體在地化社群成員， ~~但是翻了不少專有軟體~~
+- 從事 LibreOffice 等自由軟體開發工作，偶爾斜槓來作作台灣中文在地化 ~~，但都三分鐘熱度~~
+- 台灣人
+
+![bg right 100%](images/speaker-photo.jpg)
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
