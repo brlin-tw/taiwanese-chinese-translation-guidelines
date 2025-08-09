@@ -59,6 +59,30 @@ style: |
 
 ---
 
+## ~~黑歷史~~ 過往作品（Git Cola）
+
+![screenshot](images/git-cola-screenshot.png)
+
+---
+
+## ~~黑歷史~~ 過往作品（Pokémon Sleep Tools）
+
+![screenshot](images/pokemon-sleep-tools-screenshot.png)
+
+---
+
+## ~~黑歷史~~ 過往作品（Ubiquity）
+
+![screenshot](images/ubiquity-screenshot.jpg)
+
+---
+
+## ~~黑歷史~~ 過往作品（Ubiquity(?)）
+
+![screenshot](images/ubiquity-maybe-screenshot.jpg)
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
