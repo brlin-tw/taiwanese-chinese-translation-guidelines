@@ -288,6 +288,18 @@ style: |
 
 ---
 
+## 信達雅（起源）
+
+>**信、達、雅**，由[中國近代](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3 "中國近代")啟蒙思想家、翻譯家[嚴復](https://zh.wikipedia.org/wiki/%E4%B8%A5%E5%A4%8D "嚴復")提出的[翻譯](https://zh.wikipedia.org/wiki/%E7%BF%BB%E8%AF%91 "翻譯")理論，又稱「三難原則」。出自嚴復譯著《[天演論](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%BC%94%E8%AB%96 "天演論")》中的「[譯例言](https://zh.wikisource.org/wiki/%E5%A4%A9%E6%BC%94%E8%AB%96/%E8%AD%AF%E4%BE%8B%E8%A8%80 "s:天演論/譯例言")」，其講到：「譯事三難：信、達、雅。求其信已大難矣，顧信矣不達，雖譯猶不譯也，則達尚焉。」[\[1\]](https://zh.wikipedia.org/zh-tw/%E4%BF%A1%E8%BE%BE%E9%9B%85#cite_note-1)
+>
+>- 「信」（faithfulness）指意義不悖原文，即是譯文要準確，不偏離，不遺漏，也不要隨意增減意思；
+>- 「達」（expressiveness）指不拘泥於原文形式，譯文通順明白；
+>- 「雅」（elegance）則指譯文時選用的詞語要得體，追求文章本身的古雅，簡明優雅。
+>
+>——摘錄自[由維基百科編者所撰寫之《信達雅》維基百科條目](https://zh.wikipedia.org/zh-tw/%E4%BF%A1%E8%BE%BE%E9%9B%85)
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
