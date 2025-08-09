@@ -95,6 +95,23 @@ style: |
 
 ---
 
+## 目標群體
+
+<div class="columns">
+<div>
+
+您應以**內容的初學者**為目標群體來完善你的翻譯，翻譯應要是能夠在不偏離原意前提下讓初學者能夠**輕易理解並消化吸收**的。
+
+</div>
+<div>
+
+如果一個翻譯會讓教育者無法簡單且精確地介紹給初學者的話（不包含「反正 ｘｘｘ 就是對應到 ｏｏｏ，至於為什麼你不用想<ruby>反正大家都這樣用<rt>因為我也不知道該怎麼解釋</rt></ruby>」），那那個翻譯可能就不是個好翻譯。
+
+</div>
+</div>
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
