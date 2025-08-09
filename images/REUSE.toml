@@ -14,6 +14,7 @@ version = 1
 path = [
     "speaker-photo.jpg",
     "motivation.png",
+    "pangu-bulitin.png",
     "*-screenshot.*"
 ]
 SPDX-FileCopyrightText = '2025 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>'

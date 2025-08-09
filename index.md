@@ -139,6 +139,60 @@ style: |
 
 ---
 
+## 盤古之白
+
+<div class="columns">
+<div>
+
+因為當前大多數的<ruby>圖形化使用者界面<rt>graphical user interface(GUI)</rt></ruby>排版引擎尚未支援**自動在全形（中文）與半形（英數字等）字元間補入留白**影響視覺觀感所以我們**應**手動在全形字元與半形字元間插入單一空白字元以<ruby>規避<rt>workaround</rt></ruby>此問題。
+
+</div>
+<div>
+
+錯誤範例：
+
+> 於搜尋文字框中輸入cat跟game搜尋關鍵字
+
+正確範例：
+
+> 於搜尋文字框中輸入 cat 跟 game 搜尋關鍵字
+
+</div>
+</div>
+
+---
+
+## 盤古之白（可以省略之情境）
+
+<div class="columns">
+<div>
+
+因為中式標點符號字元之兩側已經包含一定的空白，如半形字元任一側的全形字元為中式標點符號則該側的盤古之白**應**省略：
+
+</div>
+<div>
+
+錯誤範例：
+
+> 於文字輸入框中輸入： cat
+
+正確範例：
+
+> 於文字輸入框中輸入：cat
+
+</div>
+</div>
+
+---
+
+## 當我們不再需要盤古之白
+
+如果未來<ruby>圖形化使用者界面<rt>graphical user interface</rt></ruby>排版引擎加入了盤古之白的支援再將這些手動插入之空白字元移除（理想上這些應該被自動偵測並直接被排版引擎忽略）。
+
+![bg right 100%](images/pangu-builtin.png)
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
