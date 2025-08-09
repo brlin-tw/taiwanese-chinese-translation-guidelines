@@ -69,6 +69,7 @@
 *.doc?
 *.htm?
 *.pdf
+*.ppt?
 
 # Don't track common program output logs
 *.err
