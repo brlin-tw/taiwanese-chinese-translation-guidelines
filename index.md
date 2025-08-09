@@ -46,6 +46,19 @@ style: |
 
 ---
 
+## 「內容」的定義
+
+「內容」是指任何形式的資訊表達，包括但不限於：
+
+* 文字（軟體界面、說明文件、網頁內容……）
+* 圖片（梗圖、插圖……）
+* 音訊（Podcast）
+* 視訊（影片字幕……）
+
+等媒體。
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
