@@ -59,25 +59,25 @@ style: |
 
 ---
 
-## ~~黑歷史~~ 過往作品（Git Cola）
+## ~~黑歷史~~ 範例（Git Cola）
 
 ![screenshot](images/git-cola-screenshot.png)
 
 ---
 
-## ~~黑歷史~~ 過往作品（Pokémon Sleep Tools）
+## ~~黑歷史~~ 範例（Pokémon Sleep Tools）
 
 ![screenshot](images/pokemon-sleep-tools-screenshot.png)
 
 ---
 
-## ~~黑歷史~~ 過往作品（Ubiquity）
+## ~~黑歷史~~ 範例（Ubiquity）
 
 ![screenshot](images/ubiquity-screenshot.jpg)
 
 ---
 
-## ~~黑歷史~~ 過往作品（Ubiquity(?)）
+## ~~黑歷史~~ 範例（Ubiquity(?)）
 
 ![screenshot](images/ubiquity-maybe-screenshot.jpg)
 
