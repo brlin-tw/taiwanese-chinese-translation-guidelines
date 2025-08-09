@@ -112,6 +112,33 @@ style: |
 
 ---
 
+<div class="columns">
+<div>
+
+## 你應該翻譯什麼
+
+* 平常有在用的軟體
+* 符合你興趣、專業領域的軟體
+* 說明文件、網站、推廣內容等
+
+最好是在翻譯完後可以實際建構翻譯好的成果進行審閱，確保翻譯的內容是正確的。
+
+</div>
+<div>
+
+## 你不應該翻譯什麼
+
+* 你不熟悉/沒在用的軟體
+* 為取得翻譯貢獻而翻譯
+* 不是你的慣用語言的翻譯
+
+也不是說絕對不能做，只是必須 **非常斟酌地** 進行。
+
+</div>
+</div>
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
