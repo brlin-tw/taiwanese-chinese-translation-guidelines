@@ -28,3 +28,11 @@ path = [
 ]
 SPDX-FileCopyrightText = '2025 CQD, Randall Patrick Munroe, et. al. <https://xkcd.tw/927>'
 SPDX-License-Identifier = 'CC-BY-NC-2.5'
+
+[[annotations]]
+path = [
+    "l10n-tw-logo-non-transparent.png",
+    "l10n-tw-telegram-qrcode.png"
+]
+SPDX-FileCopyrightText = '2017 台灣在地化社群 <https://l10n.tw>'
+SPDX-License-Identifier = 'CC-BY-SA-4.0+'

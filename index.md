@@ -487,6 +487,24 @@ $$
 
 ---
 
+## 推廣
+
+<div class="columns">
+<div>
+
+[![width:520px](images/l10n-tw-logo-non-transparent.png "台灣正體中文在地化社群的標誌")](https://l10n.tw)
+
+</div>
+
+<div>
+
+[![width:450px](images/l10n-tw-telegram-qrcode.png)](https://t.me/l10n_tw)
+
+</div>
+</div>
+
+---
+
 ## 參考資料
 
 在撰寫本文件期間我參考了下列內容：
