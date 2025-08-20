@@ -340,7 +340,7 @@ $$
 參考用的原文範例：
 
 > Debian is a volunteer organization which builds consistent distributions of pre-compiled binary **packages** of free software and distributes them from its archive.
-> 
+>
 > ——摘錄自[由 Osamu Aoki 所撰寫之 Debian package management system - Debian package management - Debian Reference 說明文件](https://www.debian.org/doc/manuals/debian-reference/ch02.en.html)
 
 ---
@@ -446,6 +446,24 @@ $$
   （信↑達↑）
 * 「包」詞彙雖[與 package 原文詞彙語意未精確對應](https://www.google.com/search?channel=fs&q=package&udm=2)（信↓達↓），但因其相對「軟體包裹」簡潔對閱覽者的理解與「念出來的體驗」有正面影響
   （達↑雅↑）
+</div>
+</div>
+
+---
+
+## 既有翻譯
+
+<div class="columns">
+<div>
+既有翻譯僅做參考之用，即便既有翻譯如何被廣泛使用如果<ruby>「信」、「達」分數不夠理想<rt>主流的錯誤翻譯一樣是錯誤翻譯</rt></ruby>仍應避免使用。
+</div>
+<div>
+<p>錯誤翻譯範例：</p>
+
+* 渲染(render)
+* 包(package)
+* 克隆(clone)
+
 </div>
 </div>
 
