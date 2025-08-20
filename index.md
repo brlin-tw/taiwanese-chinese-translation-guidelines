@@ -5,6 +5,7 @@ marp: true
 lang: zh-TW
 size: 16:9
 paginate: true
+math: mathjax
 style: |
   .columns {
     display: grid;
