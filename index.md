@@ -451,6 +451,17 @@ $$
 
 ---
 
+## 參考資料
+
+在撰寫本文件期間我參考了下列內容：
+
+* [為什麼你們就是不能加個空格呢？盤古之白拯救你的強迫症！ | jkgtw's blog ](https://www.jkg.tw/p3601/)  
+  說明盤古之白概念的涵義與重要性
+* [信達雅 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E4%BF%A1%E8%BE%BE%E9%9B%85)  
+  說明信、達、雅翻譯原則的基本概念
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
