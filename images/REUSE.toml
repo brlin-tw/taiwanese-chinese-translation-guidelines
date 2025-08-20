@@ -17,7 +17,8 @@ path = [
     "no-double-dots.png",
     "pangu-builtin.png",
     "*-screenshot.*",
-    "package-image-search-results.png"
+    "package-image-search-results.png",
+    "marp-inspiration.png"
 ]
 SPDX-FileCopyrightText = '2025 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>'
 SPDX-License-Identifier = 'CC-BY-SA-4.0+'

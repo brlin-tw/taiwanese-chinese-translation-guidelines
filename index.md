@@ -505,6 +505,12 @@ $$
 
 ---
 
+## 銘謝
+
+[![width:1000px](images/marp-inspiration.png)](https://yuaner.tw/v9eR2y)
+
+---
+
 ## 參考資料
 
 在撰寫本文件期間我參考了下列內容：
