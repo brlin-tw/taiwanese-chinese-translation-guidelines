@@ -14,7 +14,7 @@ version = 1
 path = [
     "speaker-photo.jpg",
     "motivation.png",
-    "pangu-bulitin.png",
+    "pangu-builtin.png",
     "*-screenshot.*",
     "package-image-search-results.png"
 ]
