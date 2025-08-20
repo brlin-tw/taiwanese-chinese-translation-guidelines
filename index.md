@@ -333,6 +333,124 @@ $$
 
 ---
 
+## 範例：package
+
+以下以 (software) package 詞彙的翻譯作為範例，*各翻譯之信達雅分數評估結果為主觀意見，僅供參考*：
+
+參考用的原文範例：
+
+> Debian is a volunteer organization which builds consistent distributions of pre-compiled binary **packages** of free software and distributes them from its archive.
+> 
+> ——摘錄自[由 Osamu Aoki 所撰寫之 Debian package management system - Debian package management - Debian Reference 說明文件](https://www.debian.org/doc/manuals/debian-reference/ch02.en.html)
+
+---
+
+## 範例：package（參考翻譯（不包含目標詞彙））
+
+> Debian 是個<ruby>由志願者所組成之組織<rt>volunteer organization</rt></ruby>。他們<ruby>建構<rt>build</rt></ruby>並自<ruby>軟體庫<rt>archive</rt></ruby> <ruby>散布<rt>distribute</rt></ruby><ruby>風格一致之<rt>consistent</rt></ruby>，由<ruby>自由軟體<rt>free software</rt></ruby> <ruby>預建構之<rt>pre-compiled binary</rt></ruby> **packages** 所組成之<ruby>軟體集合<rt>distribution</rt></ruby>。
+
+因原句架構極為複雜故根據「雅」考量將其拆分為二句。
+
+---
+
+## 範例：package（錯誤翻譯範例（一））
+
+<div class="columns">
+<div>
+如譯作：<ruby>套件<rt>software package</rt></ruby>
+
+帶入原文翻譯：
+
+> Debian 是個<ruby>由志願者所組成之組織<rt>volunteer organization</rt></ruby>。他們<ruby>建構<rt>build</rt></ruby>並自<ruby>軟體庫<rt>archive</rt></ruby> <ruby>散布<rt>distribute</rt></ruby><ruby>風格一致之<rt>consistent</rt></ruby>，由<ruby>自由軟體<rt>free software</rt></ruby> <ruby>預建構之<rt>pre-compiled binary</rt></ruby> **<ruby>套件<rt>software packages</rt></ruby>** 所組成之<ruby>軟體集合<rt>distribution</rt></ruby>。
+
+評估結果：信3達3雅7(?)
+</div>
+<div>
+評估細節：
+
+* 缺少重要的情境（軟體）描述  
+  （信↓達↓）
+* 「套(set, suite)件(piece)」二字含意不清，有更直觀的描述詞彙的話則應替換為該詞彙  
+  （信↓達↓）
+* 單純看詞彙的話無法判斷，但在此原句情境中前面「自由軟體」即有提供「軟體」涵義故「雅」分數有被拉高  
+  （雅↑）
+</div>
+</div>
+
+---
+
+## 範例：package（錯誤翻譯範例（二））
+
+<div class="columns">
+<div>
+如譯作：<ruby>軟體套件<rt>software package</rt></ruby>
+
+帶入原文翻譯：
+
+> Debian 是個<ruby>由志願者所組成之組織<rt>volunteer organization</rt></ruby>。他們<ruby>建構<rt>build</rt></ruby>並自<ruby>軟體庫<rt>archive</rt></ruby> <ruby>散布<rt>distribute</rt></ruby><ruby>風格一致之<rt>consistent</rt></ruby>，由<ruby>自由軟體<rt>free software</rt></ruby> <ruby>預建構之<rt>pre-compiled binary</rt></ruby> **<ruby>軟體套件<rt>software packages</rt></ruby>** 所組成之<ruby>軟體集合<rt>distribution</rt></ruby>。
+
+評估結果：信7達6雅5
+</div>
+<div>
+評估細節：
+
+* 包含重要的情境（軟體）描述（信↑達↑）
+* 「套(set, suite)件(piece)」二字含意不清，有更直觀的描述詞彙的話則應替換為該詞彙（信↓達↓）
+* 因與前面「自由軟體」詞彙的「軟體」重複，因內容冗餘故「雅」分數有被拉低（雅↓，在引入例句範例前原評估為 7）
+</div>
+</div>
+
+---
+
+## 範例：package（正確翻譯範例（一））
+
+<div class="columns">
+<div>
+如譯作：<ruby>軟體<rt>software</rt></ruby> <ruby>包裹<rt>package</rt></ruby>
+
+帶入原文翻譯：
+
+> Debian 是個<ruby>由志願者所組成之組織<rt>volunteer organization</rt></ruby>。他們<ruby>建構<rt>build</rt></ruby>並自<ruby>軟體庫<rt>archive</rt></ruby> <ruby>散布<rt>distribute</rt></ruby><ruby>風格一致之<rt>consistent</rt></ruby>，由<ruby>自由軟體<rt>free software</rt></ruby> <ruby>預建構之<rt>pre-compiled binary</rt></ruby> **<ruby>軟體包裹<rt>software packages</rt></ruby>** 所組成之<ruby>軟體集合<rt>distribution</rt></ruby>。
+
+評估結果：信10達6雅7
+</div>
+<div>
+
+評估細節：
+
+* 包含重要的情境描述（軟體）  
+  （信↑達↑）
+* 「包裹」二字雖[與 package 原文詞彙語意精確對應](https://www.google.com/search?channel=fs&q=package&udm=2)（信↑達↑），但因其過於冗長對閱覽者的理解與「念出來的體驗」造成負面影響  
+  （達↓雅↓）
+</div>
+</div>
+
+---
+
+## 範例：package（正確翻譯範例（二））
+
+<div class="columns">
+<div>
+如譯作：<ruby>軟體<rt>software</rt></ruby> <ruby>包<rt>package</rt></ruby>
+
+帶入原文翻譯：
+
+> Debian 是個<ruby>由志願者所組成之組織<rt>volunteer organization</rt></ruby>。他們<ruby>建構<rt>build</rt></ruby>並自<ruby>軟體庫<rt>archive</rt></ruby> <ruby>散布<rt>distribute</rt></ruby><ruby>風格一致之<rt>consistent</rt></ruby>，由<ruby>自由軟體<rt>free software</rt></ruby> <ruby>預建構之<rt>pre-compiled binary</rt></ruby> **<ruby>軟體<rt>software</rt></ruby> <ruby>包<rt>packages</rt></ruby>** 所組成之<ruby>軟體集合<rt>distribution</rt></ruby>。
+
+評估結果：信9達9雅9
+</div>
+<div>
+評估細節：
+
+* 包含重要的情境（軟體）描述  
+  （信↑達↑）
+* 「包」詞彙雖[與 package 原文詞彙語意未精確對應](https://www.google.com/search?channel=fs&q=package&udm=2)（信↓達↓），但因其相對「軟體包裹」簡潔對閱覽者的理解與「念出來的體驗」有正面影響
+  （達↑雅↑）
+</div>
+</div>
+
+---
+
 ## 授權條款
 
 除非另有註明([檔頭說明註解](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml))，本作品以 [4.0 國際版（或其任意更近期版本）之「Creative Commons 姓名標示─相同方式分享」授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)釋出供大眾於授權條款範圍內自由使用。
