@@ -284,7 +284,7 @@ style: |
 
 原則上使用「一個」全形的刪節號（…）或是三個英式句點（...）
 
-![](images/no-double-dots.png)
+![Git Cola 的錯誤翻譯範例](images/no-double-dots.png "Git Cola 的錯誤翻譯範例")
 
 ---
 
