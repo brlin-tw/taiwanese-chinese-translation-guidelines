@@ -72,8 +72,8 @@ create-release:
     - ./continuous-integration/create-gitlab-release.sh
 
 include:
-  - project: saferatday0/pipelines/marp
+  - project: saferatday0/library/marp
     file: marp-build.yml
 
-  - project: saferatday0/pipelines/pages
+  - project: saferatday0/library/pages
     file: pages.yml
