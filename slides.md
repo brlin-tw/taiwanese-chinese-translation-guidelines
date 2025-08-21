@@ -345,7 +345,7 @@ $$
 
 在追求「信」跟「達」的分數中除了英語辭典的詞彙釋義外你**可以**參考該詞彙在搜尋引擎中的圖片搜尋結果，比方說 package 這個詞彙它的圖片搜尋結果大概長這個樣子：
 
-![package 詞彙的 Google 圖片搜尋結果頁](images/package-image-search-results.png "package 詞彙的 Google 圖片搜尋結果頁")
+![width:1000px package 詞彙的 Google 圖片搜尋結果頁](images/package-image-search-results.png "package 詞彙的 Google 圖片搜尋結果頁")
 
 那將其翻譯成無法跟「包裹」意象進行連結的東西就可能是不太明智的作法。
 
